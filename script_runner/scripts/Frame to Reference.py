@@ -1,0 +1,5 @@
+Krita.instance().action('select_all').trigger()
+Krita.instance().action('edit_copy').trigger()
+Krita.instance().action('paste_as_reference').trigger()
+Krita.instance().action('ToolReferenceImages').trigger()
+Krita.instance().action('deselect').trigger()
