@@ -26,3 +26,9 @@ There is an agument that erasing and undoing breaks drawing momentum. This can c
 ## XSheet
 #### ✏️ Planning phase
 The widgets that makke up horizontal timelines tend to get complicated. This is the more classic list of frames per second.
+
+
+
+## Scripts
+There are many little function that would be nice to have, fortunatily we can script a lot of them using python. We can even get a little menu with plugin https://krita-artists.org/t/script-runner/126242
+Examples can be found here: https://krita-artists.org/t/storeroom-of-scripts/58681
